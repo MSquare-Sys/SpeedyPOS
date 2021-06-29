@@ -1,0 +1,2 @@
+# SpeedyPOS
+Retail Billing Software
